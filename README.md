@@ -11,6 +11,8 @@ The Store Wants To Create an Annual Sales Report For 2022. So That , the Owner o
 - Highest selling category?
 - Percentage of total orders delivered?
 
+-Sales Dashboard <a href="https://github.com/sivani-07-dagar/Sales-Dashboard/blob/main/SALES%20%20DASHBOARD.xlsx">view Excel File</a>
+
 ## process
 -Verify data for any missing values and anomalies, and sort out the same.
 -Made sure data is consistent and clean with respect to data type, data format and values used.
