@@ -17,5 +17,6 @@ The Store Wants To Create an Annual Sales Report For 2022. So That , the Owner o
 -Created pivot tables according to the question asked.
 -Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
+
 ## Final Conclusion
 To improve the sales of store, a stratergic marketing plan focused on women aged 30- 49 years residing in Maharastra, Karnataka,and Uttar Pardesh should be implemented. This demographic represences a key consumer segment, as they often male significant household ond lifestyle purchases. The appeoach should include targeted digitl marketing campaigns and personalized promotions to capture their attention.
